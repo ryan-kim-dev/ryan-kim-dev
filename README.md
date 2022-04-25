@@ -1,5 +1,5 @@
 ### Hi there 👋
-신입 프론트엔드 개발자가 되기 위해 열공하고 있는 라이언입니다. 반갑습니다! :)
+신입 프론트엔드 개발자가 되기 위해 공부하고 있는 라이언입니다. 반갑습니다! :)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryan-kim-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
