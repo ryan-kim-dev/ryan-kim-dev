@@ -1,5 +1,5 @@
 ### Hi there 👋
-신입 프론트엔드 개발자가 되기 위해 공부하고 있는 김현호입니다. 반갑습니다! :)
+유저 인터렉션과 성능 최적화를 중요하게 생각하며 Three.js, WebXR 로 웹에서의 입체적인 사용자 경험을 주는 개발자가 되고싶은 주니어 프론트엔드 개발자입니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryan-kim-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
