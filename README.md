@@ -1,2 +1,0 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-kim-dev)](https://github.com/anuraghazra/github-readme-stats)
